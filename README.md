@@ -8,9 +8,9 @@ The background color gradually changes every second.
 
 ## Future Features 
 
-[ ] Grab user's time and display corresponding color (involves math) 
+- Grab user's time and display corresponding color (involves math) 
 
-[ ] Have a loading screen while grabbing time 
+- Have a loading screen while grabbing time 
 
 ## Miscellaneous 
 
